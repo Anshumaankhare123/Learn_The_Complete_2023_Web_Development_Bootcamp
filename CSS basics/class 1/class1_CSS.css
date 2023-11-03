@@ -1,0 +1,37 @@
+header{
+    background-color: rebeccapurple;
+}
+footer{
+    background-color: blue;
+}
+h1{
+    color: rebeccapurple;
+}
+.color{
+    color: blue;
+}
+#color{
+    color: green;
+}
+p[draggable]{
+    color: cadetblue;
+}
+/* sorry i am not using universal selector  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
