@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript HTML DOM</h2>
+
+<p id="gg">Finding HTML Elements by Ids</p>
+<p>This example demonstrates the <b>getElementsById</b> method.</p>
+
+<p id="hello"></p>
+
+<script>
+const element = document.getElementById("gg");
+
+document.getElementById("hello").innerHTML = 
+"The text from the intro paragraph is: " + element.innerHTML;
+
+</script>
+
+</body>
+</html>
