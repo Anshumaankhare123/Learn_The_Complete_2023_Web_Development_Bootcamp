@@ -7,5 +7,7 @@ for(let i=0;i< arr.length;i++){
     console.log("value by index ="+arr[i]);
 }
 
+
+
 // this are the eg. of an array 
 // in this i use some methods
